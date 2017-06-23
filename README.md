@@ -1,0 +1,2 @@
+# ihc.installer
+Test app
